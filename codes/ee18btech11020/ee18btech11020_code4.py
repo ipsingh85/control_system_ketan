@@ -40,9 +40,9 @@ plt.ylabel('Phase(deg)')
 plt.title('Phase plot')
 plt.legend()
 #if using termux
-#plt.savefig('./figs/ee18btech11020/ee18btech11020_fig3.pdf')
-#plt.savefig('./figs/ee18btech11020/ee18btech11020_fig3.eps')
-#subprocess.run(shlex.split("termux-open ./figs/ee18btech11020/ee18btech11020_fig3.pdf"))
+#plt.savefig('./figs/ee18btech11020/Figure_3.pdf')
+#plt.savefig('./figs/ee18btech11020/Figure_3.eps')
+#subprocess.run(shlex.split("termux-open ./figs/ee18btech11020/Figure_3.pdf"))
 
 #else
 plt.show()
