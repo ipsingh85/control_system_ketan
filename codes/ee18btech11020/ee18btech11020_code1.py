@@ -94,9 +94,9 @@ plt.ylabel('Imaginary')
 plt.legend(loc='best',prop={'size':11})
 
 #if using termux
-#plt.savefig('./figs/ee18btech11020/ee18btech11020_fig1.pdf')
-#plt.savefig('./figs/ee18btech11020/ee18btech11020_fig1.eps')
-#subprocess.run(shlex.split("termux-open ./figs/ee18btech11020/ee18btech11020_fig1.pdf"))
+#plt.savefig('./figs/ee18btech11020/Figure_1.pdf')
+#plt.savefig('./figs/ee18btech11020/Figure_1.eps')
+#subprocess.run(shlex.split("termux-open ./figs/ee18btech11020/Figure_1.pdf"))
 
 #else
 
