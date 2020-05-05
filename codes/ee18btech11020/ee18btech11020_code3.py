@@ -30,9 +30,9 @@ plt.title('Phase plot')
 plt.grid() 
 
 #if using termux
-#plt.savefig('./figs/ee18btech11020/ee18btech11020_fig2.pdf')
-#plt.savefig('./figs/ee18btech11020/ee18btech11020_fig2.eps')
-#subprocess.run(shlex.split("termux-open ./figs/ee18btech11020/ee18btech11020_fig2.pdf"))
+#plt.savefig('./figs/ee18btech11020/Figure_2.pdf')
+#plt.savefig('./figs/ee18btech11020/Figure_2.eps')
+#subprocess.run(shlex.split("termux-open ./figs/ee18btech11020/Figure_2.pdf"))
 
 #else
 
